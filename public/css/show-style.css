@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://www.en.etemaaddaily.com/pages/health/coronavirusupdates/8619haryanacoro.png');
+    background-repeat: no-repeat;
+    background-size: 100% 5000%;
+  }
+  
+  table {
+    border-collapse: collapse;
+    text-align:center;
+  
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  .information{
+    position:fixed;
+    left:50px;
+    top:400px;
+    right:50px;
+  }
+  a{
+    background-color: #8a8988;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px 0;
+    border-radius: 4px;
+    float:right;
+  }
